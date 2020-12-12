@@ -8,6 +8,8 @@ Copyright - Gabriel Faraday
 
 **Objetivo** - Criar uma Api.Net com MongoDB para localização de pessoas afetadas pela covid-19.
 
+**Tecnologias** -
+
 - [ ] .NetCore (c#)
 - [ ] MongoDB Atlas
 
@@ -41,7 +43,7 @@ Copyright - Gabriel Faraday
 
 10. Consumir a API via plataforma (Postman/Insomnia) e fazer o gerenciamento via Atlas
 
-Referências:
+**Referências:**
 
 https://docs.mongodb.com/
 
